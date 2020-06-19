@@ -1,0 +1,4 @@
+report/Dense*
+
+src/runs/*
+src/__pycache__/*
